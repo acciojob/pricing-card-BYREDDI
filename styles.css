@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.card
+{
+	width:400px;
+	background-color:rgb(241,241,241);
+	margin:auto;
+	align-items:center;
+}
+#image
+{
+	padding:30px;
+}
+#btn
+{
+	margin-top:18px;
+	margin-bottom:18px;
+	padding:12px;
+	color:white;
+	background-color:rgb(254,98,90);
+	border-radius:10px;
+	font-size:25px;
+	border:none;
+}
+#head
+{
+	margin-top:0px;
+	font-size:40px;
+}
+#para
+{
+	font-size:20px;
+}
